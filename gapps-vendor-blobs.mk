@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
 	vendor/gapps/proprietary/app/Phonesky.apk:system/app/Phonesky.apk \
 	vendor/gapps/proprietary/app/SetupWizard.apk:system/app/SetupWizard.apk \
 	vendor/gapps/proprietary/app/Talk.apk:system/app/Talk.apk \
-	vendor/gapps/proprietary/app/Talkback.apk:system/app/Talkback.apk \
 	vendor/gapps/proprietary/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
 	vendor/gapps/proprietary/etc/g.prop:system/etc/g.prop \
 	vendor/gapps/proprietary/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
