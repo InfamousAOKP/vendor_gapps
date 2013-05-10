@@ -17,7 +17,6 @@
 # GApps
 PRODUCT_COPY_FILES += \
 	vendor/gapps/proprietary/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh \
-	vendor/gapps/proprietary/app/AngryGPS.apk:system/app/AngryGPS.apk \
 	vendor/gapps/proprietary/app/BrowserProviderProxy.apk:system/app/BrowserProviderProxy.apk \
 	vendor/gapps/proprietary/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
 	vendor/gapps/proprietary/app/GmsCore.apk:system/app/GmsCore.apk \
