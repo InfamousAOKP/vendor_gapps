@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
 	vendor/gapps/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
 	vendor/gapps/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
 	vendor/gapps/proprietary/lib/libfrsdk.so:system/lib/libfrsdk.so \
-	vendor/gapps/proprietary/lib/libgoogle_recognizer_jni.so:system/lib/libgoogle_recognizer_jni.so \
 	vendor/gapps/proprietary/lib/libgtalk_jni.so:system/lib/libgtalk_jni.so \
 	vendor/gapps/proprietary/lib/libgtalk_stabilize.so:system/lib/libgtalk_stabilize.so \
 	vendor/gapps/proprietary/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
